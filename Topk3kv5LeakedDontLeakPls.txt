@@ -2,4 +2,4 @@
 -- All Scripts Obfuscated --
 -- 3/21/2021 - UPDATED Since Pastebin and Hastebin took both my scripts down lol
 
-loadstring(game:HttpGet("https://pastebin.com/raw/6PQbifsA", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/6qaaCgMs", true))()
